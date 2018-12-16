@@ -1,7 +1,9 @@
 awscli
-click
 matplotlib
 jupyter
 notebook
-Sphinx
 flake8
+pandas
+numpy
+sklearn
+matplotlib
