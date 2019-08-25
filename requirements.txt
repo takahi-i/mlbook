@@ -9,3 +9,5 @@ scikit-learn==0.19
 scipy
 matplotlib
 lda
+tensorflow
+keras
